@@ -1,0 +1,1 @@
+In Node.js, File I/O methods can be performed in both synchronous as well as asynchronous form depending upon the user requirements. In order to use this functionalities we need to require the fs module as shown below :
