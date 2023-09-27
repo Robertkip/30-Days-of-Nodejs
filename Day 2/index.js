@@ -31,3 +31,5 @@ fs.writeFile('mark.txt', content, (err) => {
 const mark = "Then declare the various functions with every React form field value, so when the user inserts the data within the form input field, a state will be set accordingly."
 fs.writeFileSync('Master.txt', content);
 console.log("File Written Successfully");
+
+
