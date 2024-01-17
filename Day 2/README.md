@@ -9,3 +9,11 @@
 - fs.renameSync(): Rename file names synchronously.
 - Deleting (unlink) file operations using Node.js fs.unlink(): Delete files asynchronously.
 - fs.unlinkSync(): Delete files synchronously.
+
+
+
+stdout and stderr
+console.log prints the message to the console also called standard output (stdout)
+console.error prints to the stderr stream
+It will appear in the error log
+
