@@ -9,7 +9,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 const Shopify = require('shopify-api-node');
-//tokens="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"
+
 const shopify = new Shopify({
 });
 
