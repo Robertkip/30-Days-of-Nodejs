@@ -22,6 +22,8 @@ app.get('/', (req, res) => {
     res.send('Welcome to my Shopify App')
 });
 
+
+
 app.listen(port, () => {
     console.log(`Server is currently running on port ${port}`)
 });
