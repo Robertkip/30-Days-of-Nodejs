@@ -111,3 +111,8 @@ factorial accepts a single integer n and returns 1 if n <= 1 or factorial(n - 1)
 //Add two promises
 
 Given two promises, promise1 and promise2, return a new promise. Both promise1 and promise2 will resolve with a number. The returned promise should resolve with the sum of the two numbers.
+
+
+//Task for sleep.js
+quiz:
+Given a positive integer millis, write an asynchronous function that sleeps for millis milliseconds. It can resolve any value.
