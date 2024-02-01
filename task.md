@@ -24,28 +24,9 @@ You can refer to online resources such as Google Search and read tutorials.
 Watch videos(For Help).
 INSTRUCTIONS
 
-A TAS K S UBMI S S I ON F ORM wi l l be sha r e d
-l a t e r t hr oug h e ma i l . T i l l t hen plea s e co n t i n ue
-your t a s k.
-A v i deo need t o b e cr e a t e d to sho wca se yo ur wo rk ,
-de mo o f your e f f o r t
-The video can be hosted on LinkedIn for proof of
-your work and build credibility among your peers .
-You can tag CODSOFT in such posts.
-1
-2
-3
-SUBMISSION
-P l e a se a dd # co d so f t i n e a ch o f yo ur ta sk
-v i de o p os t i ng s o n L i n ke d I n , Addi ti o n a ll y, yo u
-ca n a l s o a dd ha sht a g s such a s # i n te rn shi p
-# we bdev el op me n t . f o r mo re re a ch a n d
-v i s i bi l i t y.
-4
-4
 
-COMPLETI O N
-CER TI FI CAT E
+COMPLETION
+CERTIFICATE
 PLACEMENT
 SUPPORT
 NETWORK
@@ -54,8 +35,7 @@ ABOUT THE INTERNSHIP
 
 WEB DEVELOPMENT
 TASK LIST
-F o r a W e b D e v e l o p m e n t i n t e r n s h i p , y o u w i l l n e e d t o c o m p l e t e a n y o n e ( e i t h e r l e v e l 1 o r l e v e l 2 o r
-l e v e l 3 ) a s p e r y o u r c o n v e n i e n c e f o r s u c c e s s f u l c o m p l e t i o n o f t h e i n t e r n s h i p .
+
 
 TASK 
 1
@@ -74,7 +54,7 @@ Contact Section: Include your contact information, such as email address and pho
 number.
 Footer: Add a copyright notice and any additional links or information.
 PORTFOLIO
-F OR DEMO CLI CK HERE
+FOR DEMO CLICK HERE
 
 TASK 
 2
@@ -87,7 +67,7 @@ padding, color palette, boxes, and other elements. Be mindful of CSS to avoid ov
 elements. In short, a landing page project allows you to apply HTML and CSS skills,
 encouraging your creativity while ensuring a visually appealing and user-friendly design.
 LANDING PAGE
-F OR DEMO CLI CK HERE
+FOR DEMO CLICK HERE
 
 TASK 
 3
@@ -115,6 +95,7 @@ User Authentication and Security: Secure user login and data protection.
 Mobile Responsiveness: Website works well on different devices.
 Job Board 
 FOR DEMO CLICK HERE
+
 8.Host the website at 000webhost, github.io,Netlify, heroku app or any other free hosting
 provider. Check in code in gitlab. (optional)
 Build a job board website where employers can post job openings and job seekers can
@@ -156,26 +137,3 @@ provider. Check in code in gitlab.
 
 THE PURPOSE OF THIS INTERNSHIP IS TO
 LEARN AND GROW
-We h a v e n o d e s i r e t o d i c t a t e t o y o u . I t i s e n t i r e l y
-u p t o y o u wh e t h e r y o u s e e k g u i d a n c e o r n o t .
-1
-2
-3
-ASK US FOR HELP!
-4
-4
-T h e g i v e n t a s k s ma y s e e m v e r y e a s y o r v e r y d i f f i c u l t .
-We e x p e c t y o u t o a p p r o a c h t h e t a s k s wi t h
-p r o f e s s i o n a l d i l i g e n c e a n d g i v e t h e m t h e a t t e n t i o n
-t h e y d e s e r v e . "
-
-www.codsoft.in
-1
-2
-3
-GET SOCIAL WITH
-US
-4
-4
-contact@codsoft.in
-CodSoft
