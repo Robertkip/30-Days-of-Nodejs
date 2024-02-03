@@ -1,0 +1,44 @@
+2023 GOALS
+M Y M A N T R A O F T H E Y E A R
+G.1
+ACHIEVED
+G.2
+ACHIEVED
+G.3
+ACHIEVED
+G.4
+G.5
+Category
+Category
+Category
+Category
+Category
+ACHIEVED
+ACHIEVED
+DATE
+DATE
+DATE
+DATE
+DATE
+
+G.
+ACHIEVED
+ACHIEVED
+ACHIEVED
+Category
+G. 
+Category
+ACHIEVED
+ACHIEVED
+G. 
+Category
+G. 
+Category
+G. 
+Category
+DATE
+DATE
+DATE
+DATE
+DATE
+You've got this
